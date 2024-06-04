@@ -1,0 +1,20 @@
+.nav-logo{
+   height: 80px;
+   border-radius: 70%;
+   
+}
+.body{
+    height: 100vh;
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/30/20/14/sky-5114501_1280.jpg")
+}
+.item-nav{
+    color:aliceblue;
+}
+.item-nav:hover{
+    color:blueviolet;
+}
+.anchor{
+    margin-left:70%;
+    justify-content: space-between
+    
+}
